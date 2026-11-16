@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7c698450-bc4c-4e25-9322-ef324e1af10e
+
 <h1 align="center">Zaid Al-Sabbagh · BrandCode Showcase</h1>
 
 <p align="center">
@@ -41,7 +45,13 @@ The source code for these projects is private, because it belongs to BrandCode a
   <img src="images/brandcode/mobile.jpg" alt="BrandCode homepage on mobile" width="23%" />
 </p>
 
-<!-- 🎬 Walkthrough video: drag the .mp4 into this README on github.com to upload it, then paste the link here. -->
+<!-- 🎬 Walkthrough video: drag the .mp4 into this README on github.com
+
+ to upload it, then paste the link here. --> 
+
+https://github.com/user-attachments/assets/e3a1440e-939e-4bf0-8303-f21732dba152
+
+
 
 **Highlights**
 - English and Arabic, right to left, with the language in the URL and server-side rendering
@@ -69,7 +79,11 @@ The source code for these projects is private, because it belongs to BrandCode a
   <img src="images/lucent/mobile.jpg" alt="Lucent homepage on mobile" width="23%" />
 </p>
 
-<!-- 🎬 Walkthrough video goes here. -->
+<!-- 🎬 Walkthrough video goes here. --> 
+
+https://github.com/user-attachments/assets/cce925fc-a5ee-4f00-a3d1-a319db3541fc
+
+
 
 **Highlights**
 - Interactive offices map: pings, hover previews and a page per office for all five countries
@@ -96,7 +110,11 @@ The source code for these projects is private, because it belongs to BrandCode a
   <img src="images/can-international/mobile.jpg" alt="CAN International on mobile" width="23%" />
 </p>
 
-<!-- 🎬 Walkthrough video goes here. -->
+<!-- 🎬 Walkthrough video goes here. --> 
+
+https://github.com/user-attachments/assets/7f99daad-3d23-4543-8463-f0b64227e7a9
+
+
 
 **Highlights**
 - WebGL globe in the hero (cobe) with arcs from Riyadh across the GCC, which you can drag and it glides back
