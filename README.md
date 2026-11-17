@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/31d8dae6-6be0-4829-9ace-f2851b0a8e1a
-
-
-
 <h1 align="center">Zaid Al-Sabbagh · BrandCode Showcase</h1>
 
 <p align="center">
