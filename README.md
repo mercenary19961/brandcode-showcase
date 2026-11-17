@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/7c698450-bc4c-4e25-9322-ef324e1af10e
+https://github.com/user-attachments/assets/31d8dae6-6be0-4829-9ace-f2851b0a8e1a
+
+
 
 <h1 align="center">Zaid Al-Sabbagh · BrandCode Showcase</h1>
 
@@ -49,8 +51,7 @@ The source code for these projects is private, because it belongs to BrandCode a
 
  to upload it, then paste the link here. --> 
 
-https://github.com/user-attachments/assets/e3a1440e-939e-4bf0-8303-f21732dba152
-
+https://github.com/user-attachments/assets/a30f585d-1beb-4626-8e3d-50f39edae490
 
 
 **Highlights**
@@ -81,7 +82,9 @@ https://github.com/user-attachments/assets/e3a1440e-939e-4bf0-8303-f21732dba152
 
 <!-- 🎬 Walkthrough video goes here. --> 
 
-https://github.com/user-attachments/assets/cce925fc-a5ee-4f00-a3d1-a319db3541fc
+
+
+https://github.com/user-attachments/assets/ca59e34b-410e-448d-aa38-9961a7e63545
 
 
 
