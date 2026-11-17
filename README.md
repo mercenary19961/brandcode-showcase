@@ -40,16 +40,14 @@ The source code for these projects is private, because it belongs to BrandCode a
 
 🔗 **Live:** [bcodepr.com](https://bcodepr.com) · 📅 2026
 
-<img src="images/brandcode/desktop.jpg" alt="BrandCode homepage on desktop" width="100%" />
+<img src="images/brandcode/walkthrough.gif" alt="BrandCode walkthrough, scrolling the site" width="100%" />
 
 <p>
   <img src="images/brandcode/inner.jpg" alt="BrandCode inner page" width="74%" />
   <img src="images/brandcode/mobile.jpg" alt="BrandCode homepage on mobile" width="23%" />
 </p>
 
-<!-- 🎬 Walkthrough video: drag the .mp4 into this README on github.com
-
- to upload it, then paste the link here. --> 
+<!-- 🎬 Walkthrough video -->
 
 https://github.com/user-attachments/assets/a30f585d-1beb-4626-8e3d-50f39edae490
 
@@ -73,14 +71,14 @@ https://github.com/user-attachments/assets/a30f585d-1beb-4626-8e3d-50f39edae490
 
 🔗 **Live:** [lucent-intl.com](https://lucent-intl.com) · 📅 2026
 
-<img src="images/lucent/desktop.jpg" alt="Lucent homepage on desktop" width="100%" />
+<img src="images/lucent/walkthrough.gif" alt="Lucent walkthrough, scrolling the site" width="100%" />
 
 <p>
   <img src="images/lucent/inner.jpg" alt="Lucent locations page" width="74%" />
   <img src="images/lucent/mobile.jpg" alt="Lucent homepage on mobile" width="23%" />
 </p>
 
-<!-- 🎬 Walkthrough video goes here. --> 
+<!-- 🎬 Walkthrough video -->
 
 
 
@@ -106,14 +104,14 @@ https://github.com/user-attachments/assets/ca59e34b-410e-448d-aa38-9961a7e63545
 
 🔗 **Live:** [canintlco.com](https://canintlco.com) · 📅 2026
 
-<img src="images/can-international/desktop.jpg" alt="CAN International hero with the globe" width="100%" />
+<img src="images/can-international/walkthrough.gif" alt="CAN International walkthrough, scrolling the site" width="100%" />
 
 <p>
   <img src="images/can-international/inner.jpg" alt="CAN International projects section" width="74%" />
   <img src="images/can-international/mobile.jpg" alt="CAN International on mobile" width="23%" />
 </p>
 
-<!-- 🎬 Walkthrough video goes here. --> 
+<!-- 🎬 Walkthrough video -->
 
 https://github.com/user-attachments/assets/7f99daad-3d23-4543-8463-f0b64227e7a9
 
