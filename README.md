@@ -43,8 +43,6 @@ The source code for these projects is private, because it belongs to BrandCode a
 
 <!-- 🎬 Walkthrough video -->
 
-https://github.com/user-attachments/assets/a30f585d-1beb-4626-8e3d-50f39edae490
-
 
 **Highlights**
 - English and Arabic, right to left, with the language in the URL and server-side rendering
@@ -75,11 +73,6 @@ https://github.com/user-attachments/assets/a30f585d-1beb-4626-8e3d-50f39edae490
 <!-- 🎬 Walkthrough video -->
 
 
-
-https://github.com/user-attachments/assets/ca59e34b-410e-448d-aa38-9961a7e63545
-
-
-
 **Highlights**
 - Interactive offices map: pings, hover previews and a page per office for all five countries
 - Animated home headline with a cycling word and a text-scramble effect
@@ -106,8 +99,6 @@ https://github.com/user-attachments/assets/ca59e34b-410e-448d-aa38-9961a7e63545
 </p>
 
 <!-- 🎬 Walkthrough video -->
-
-https://github.com/user-attachments/assets/7f99daad-3d23-4543-8463-f0b64227e7a9
 
 
 
